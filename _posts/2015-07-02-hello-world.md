@@ -1,6 +1,5 @@
 ---
 title: Hello, World!
-categories: Hello
 ---
 
 #Post, the first
