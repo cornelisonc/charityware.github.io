@@ -11,9 +11,15 @@ body {
 /*- Typography for medium and small screen, based on 16px font-size -*/
 
 p, ul, ol {
+	font-family: "freight-sans-pro";
+	font-weight: normal;
 	font-size: 1em; /* 16px */
 	line-height: 1.5em; /* 24px/16px */
 	margin-bottom: 1.5em; /* 24px/16px */
+}
+
+li.post p {
+	font-family: "freight-sans-pro";
 }
 
 h1 {
@@ -23,6 +29,7 @@ h1 {
 }
 
 h2 {
+	font-family: "freight-sans-pro";
 	font-size: 1.5em; /* 24px/16px */
 	line-height: 1em; /* 24px/24px */
 	padding: 1em 0 0 0; /* 12px/24px * 2, only top (Use padding instead of margin to maintain proximity with paragwithph) */
