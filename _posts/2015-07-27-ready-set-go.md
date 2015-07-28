@@ -1,5 +1,6 @@
 ---
 title: Ready, Set, GO!
+categories: languages golang
 ---
 
 You might have heard of [Go](http://golang.org/) (or golang, as it were) by now. It's the primary technology that underlies [Docker](docker.io), lots of companies have been switching their APIs over to it, and it's created some traction in the open source community. As we continue to build out Charityware, we are choosing which services need which language to best work within our architecture.
