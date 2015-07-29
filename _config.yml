@@ -1,7 +1,7 @@
 # Site settings
 title: Charityware Engineering
-description: "A minimal blog template, build with Jekyll."
-url: "https://charityware.github.io/"
+description: "The Charityware Engineering blog"
+url: "http://code.charityware.co/"
 author:
   name: "Mark Thomas"
   email: "hello@charityware.co"
